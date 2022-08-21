@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<npcs>
+	<npc centerx="3862" centery="3740" centerz="5" radius="1">
+		<npc name="Alexander" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="3862" centery="3741" centerz="6" radius="1">
+		<npc name="Asnarus" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="3878" centery="3741" centerz="6" radius="1">
+		<npc name="Alesar" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="3862" centery="3747" centerz="6" radius="1">
+		<npc name="Rashid" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="3878" centery="3747" centerz="6" radius="1">
+		<npc name="Haroun" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="3863" centery="3753" centerz="6" radius="1">
+		<npc name="Yaman" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="3877" centery="3753" centerz="6" radius="1">
+		<npc name="Nah Bob" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="3878" centery="3741" centerz="7" radius="1">
+		<npc name="Virgil" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="3862" centery="3747" centerz="7" radius="1">
+		<npc name="Xodet" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="3878" centery="3747" centerz="7" radius="1">
+		<npc name="Lector" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="3863" centery="3752" centerz="7" radius="1">
+		<npc name="Clark" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="3877" centery="3753" centerz="7" radius="1">
+		<npc name="Perac" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+</npcs>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<npcs>
+	<npc centerx="131" centery="47" centerz="5" radius="1">
+		<npc name="Alexander" x="-1" y="1" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="120" centery="48" centerz="5" radius="1">
+		<npc name="Perac" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="123" centery="57" centerz="5" radius="1">
+		<npc name="Baxter" x="-1" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="305" centery="80" centerz="5" radius="1">
+		<npc name="Xodet" x="1" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="1031" centery="1002" centerz="5" radius="1">
+		<npc name="Perac" x="0" y="1" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="130" centery="48" centerz="6" radius="1">
+		<npc name="Xodet" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="223" centery="109" centerz="6" radius="1">
+		<npc name="Perac" x="1" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1032" centery="1002" centerz="6" radius="1">
+		<npc name="Xodet" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="163" centery="47" centerz="7" radius="1">
+		<npc name="Clark" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="127" centery="49" centerz="7" radius="1">
+		<npc name="Lector" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="128" centery="55" centerz="7" radius="1">
+		<npc name="Eremo" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="191" centery="64" centerz="7" radius="3">
+		<npc name="Virgil" x="0" y="2" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="161" centery="507" centerz="7" radius="5">
+		<npc name="Xodet" x="-4" y="-1" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="659" centery="574" centerz="12" radius="6">
+		<npc name="Updade Seller" x="-5" y="-4" z="12" spawntime="15" />
+		<npc name="Xodet" x="5" y="-3" z="12" spawntime="15" />
+		<npc name="Johnny" x="-1" y="0" z="12" spawntime="15" />
+		<npc name="Mad" x="-6" y="4" z="12" spawntime="15" />
+	</npc>
+</npcs>
